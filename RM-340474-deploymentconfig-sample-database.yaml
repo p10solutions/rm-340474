@@ -5,7 +5,7 @@ metadata:
     openshift.io/generated-by: OpenShiftNewApp
     template.alpha.openshift.io/wait-for-ready: 'true'
   selfLink: >-
-    /apis/apps.openshift.io/v1/namespaces/rm-343580-c/deploymentconfigs/sample-database
+    /apis/apps.openshift.io/v1/namespaces/rm-340474-c/deploymentconfigs/sample-database
   resourceVersion: '97189017'
   name: sample-database
   uid: 05ac8562-47ea-4dd1-861a-262464de62db
@@ -186,7 +186,7 @@ metadata:
           'f:observedGeneration': {}
           'f:unavailableReplicas': {}
           'f:latestVersion': {}
-  namespace: rm-343580-c
+  namespace: rm-340474-c
   labels:
     app: sample-database
     app.kubernetes.io/component: sample-database
