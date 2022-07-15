@@ -2,9 +2,9 @@
 apiVersion: autoscaling/v2beta2
 metadata:
   name: hpa-fiap-aso8
-  namespace: rm-343580-c
+  namespace: rm-340474-c
   selfLink: >-
-    /apis/autoscaling/v2beta2/namespaces/rm-343580-c/horizontalpodautoscalers/hpa-fiap-aso8
+    /apis/autoscaling/v2beta2/namespaces/rm-340474-c/horizontalpodautoscalers/hpa-fiap-aso8
   uid: 8af6c92d-90af-4418-98bd-366fc2e0a18f
   resourceVersion: '97375771'
   creationTimestamp: '2022-07-13T20:02:20Z'
